@@ -1,4 +1,4 @@
-This project is for the finite hypothesis classes project. 
+This README introduces a homework assignment on finite hypothesis classes. The task explores how to implement these hypothesis classes, dimensionality, and other concepts in Python.
 
 finite_hypothesis_classes.ipynb: Is the code used for the project
 
